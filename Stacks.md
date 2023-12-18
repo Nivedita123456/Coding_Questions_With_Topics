@@ -1,0 +1,14 @@
+##### Questions to ReVisit
+ - Largest Rectangle Area in Histogram
+ - Trapping Rain Water
+ - Next Greater Element 2
+ - Min Stack
+ - Infix , PostFix and PreFix
+ - https://www.codingninjas.com/studio/problems/subarray-range-sum_8365419?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+ - https://www.codingninjas.com/studio/problems/sum-of-subarray-minimums_8365431?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+-  Maximal Rectangle
+- Sliding Window Maximum
+- Stock Span
+- Celebrity Problem
+- LRU Cache
+- LFU Cache

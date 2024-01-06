@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HashMap And Heaps.md",
+                "file": "Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HashMap And Heaps.md",
+                "file": "Arrays.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HashMap And Heaps.md",
+                "file": "Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HashMap And Heaps.md"
+                "file": "Arrays.md"
               }
             }
           }
@@ -387,7 +387,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -399,20 +399,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "371c96130ea1d4e4",
+  "active": "221f060865f492fd",
   "lastOpenFiles": [
-    "Heaps(Priority Queue).md",
+    "Bit Manipulation.md",
+    "Recursion.md",
+    "Binary Trees.md",
     "HashMap And Heaps.md",
+    "Topics.md",
+    "Heaps(Priority Queue).md",
     "Greedy.md",
     "Untitled.md",
     "Untitled",
-    "Topics.md",
     "LinkedList.md",
     "Pasted image 20231015181951.png",
     "Pasted image 20231015182013.png",
     "Pasted image 20231015182022.png",
     "Queue.md",
-    "Recursion.md",
     "Sorting Techniques.md",
     "Stacks.md",
     "String Matching Algorithms.md",
@@ -426,7 +428,6 @@
     "Max Heap.md",
     "Binary Search on 1-D and 2-D Array.md",
     "Binary Search Trees.md",
-    "Binary Trees.md",
     "Graphs.md",
     "Internal links.md",
     "DHBUDBJ.md",

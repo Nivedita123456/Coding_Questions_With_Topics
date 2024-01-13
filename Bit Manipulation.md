@@ -14,11 +14,11 @@
     
 -  [All Repeating Except One](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/all-repeating-except-one-official/ojquestion) Easy                                                                                      Done
     
--  [All Repeating Except Two](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/all-repeating-except-two-official/ojquestion) Easy               Done
+-  [All Repeating Except Two](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/all-repeating-except-two-official/ojquestion) Easy               Done                                                             Done
     
--  [One Repeating And One Missing](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/one-repeating-and-one-missing-official/ojquestion) Easy        Done
+-  [One Repeating And One Missing](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/one-repeating-and-one-missing-official/ojquestion) Easy        Done                                                        Done
     
--  [All Repeating Three Times Except One](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/all-repeating-three-times-except-one-official/ojquestion) Easy.   Done
+-  [All Repeating Three Times Except One](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/all-repeating-three-times-except-one-official/ojquestion) Easy      Done
     
 -  [Triplets - 1](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/triplets-1-official/ojquestion) Easy                                                                           Done   
     
@@ -30,7 +30,7 @@
     
 -  [Abbreviation 1 - Using Bits](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/abrreviation1-using-bits-official/ojquestion) Easy
     
--  [Utf - 8 Encoding](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/utf-8-encoding-official/ojquestion) Easy. Done
+-  [Utf - 8 Encoding](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/utf-8-encoding-official/ojquestion) Easy       Done
     
 -  [Sudoku Using Bit Manipulation](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/sudoku-using-bit-manipulation-official/ojquestion) Medium
     
@@ -67,7 +67,7 @@
 -  [Minimum Flips To Make A Or B Equal To C](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/minimum-flips-abc/ojquestion) Easy
     
 -  [Find Longest Awesome Substring](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/bit-manipulation/find-longest-awesome-substring/ojquestion) Medium
-- https://parikh.club/parikh_bit4 Medium.  Done
+- https://parikh.club/parikh_bit4 Medium         Done
 
 
 % 2 == 0 (1 =  Number of Set Bits)

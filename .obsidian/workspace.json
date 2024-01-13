@@ -253,9 +253,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays.md",
+                "file": "Bit Manipulation.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ebc3bfa8fdaacccd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           },
@@ -272,7 +282,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -338,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays.md",
+                "file": "Bit Manipulation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -355,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays.md",
+                "file": "Bit Manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +388,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays.md"
+                "file": "Bit Manipulation.md"
               }
             }
           }
@@ -399,8 +409,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "221f060865f492fd",
+  "active": "ebc3bfa8fdaacccd",
   "lastOpenFiles": [
+    "Arrays.md",
     "Bit Manipulation.md",
     "Recursion.md",
     "Binary Trees.md",
@@ -421,7 +432,6 @@
     "Strings.md",
     "Tries.md",
     "Two Pointer(Sliding Window).md",
-    "Arrays.md",
     "^5abe1b.md",
     "Untitled 1.md",
     "BackTracking.md",

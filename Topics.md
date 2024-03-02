@@ -7,18 +7,23 @@ https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
 [[Stacks]]-Done
 [[Queue]]-Done
 [[Sorting Techniques]]
-[[Greedy]]
+[[Greedy]]-Done
 [[Recursion]]
-[[BackTracking]]
+[[BackTracking]]-Done
 [[String Matching Algorithms]]
+[[Arrays]]
+[[2D ARRAYS MATRIX]]
 [[Strings]]
 [[Tries]]
-[[Heaps(Priority Queue)]] 
+[[Heaps(Priority Queue)]]-Done
 [[Dynamic Programming]]
 [[Graphs]]-Done
-[[Bit Manipulation]]
+[[Bit Manipulation]]-Done
 [[Two Pointer(Sliding Window)]]
+[[Fast and Slow Pointer]]
 [[Binary Search on 1-D and 2-D Array]]
-[[HashMap And Heaps]]
+[[HashMap And Heaps]] -Done
+
+MOD Operation - Add MOD Value Concept
 
 

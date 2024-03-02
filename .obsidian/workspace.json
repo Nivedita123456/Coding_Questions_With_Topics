@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Queue.md",
+                "file": "Binary Search on 1-D and 2-D Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -263,9 +263,11 @@
             "id": "ebc3bfa8fdaacccd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "BackTracking.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -282,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -348,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bit Manipulation.md",
+                "file": "Binary Search on 1-D and 2-D Array.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -365,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bit Manipulation.md",
+                "file": "Binary Search on 1-D and 2-D Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bit Manipulation.md"
+                "file": "Binary Search on 1-D and 2-D Array.md"
               }
             }
           }
@@ -409,38 +411,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebc3bfa8fdaacccd",
+  "active": "6b46c80010463294",
   "lastOpenFiles": [
-    "Arrays.md",
-    "Bit Manipulation.md",
-    "Recursion.md",
-    "Binary Trees.md",
-    "HashMap And Heaps.md",
+    "Binary Search Trees.md",
+    "Binary Search on 1-D and 2-D Array.md",
     "Topics.md",
-    "Heaps(Priority Queue).md",
-    "Greedy.md",
-    "Untitled.md",
-    "Untitled",
-    "LinkedList.md",
-    "Pasted image 20231015181951.png",
-    "Pasted image 20231015182013.png",
-    "Pasted image 20231015182022.png",
-    "Queue.md",
     "Sorting Techniques.md",
     "Stacks.md",
-    "String Matching Algorithms.md",
-    "Strings.md",
-    "Tries.md",
-    "Two Pointer(Sliding Window).md",
-    "^5abe1b.md",
-    "Untitled 1.md",
-    "BackTracking.md",
-    "Max Heap.md",
-    "Binary Search on 1-D and 2-D Array.md",
-    "Binary Search Trees.md",
+    "2D ARRAYS MATRIX.md",
+    "2-D Arrays.md",
+    "Dynamic Programming.md",
+    "Arrays.md",
     "Graphs.md",
-    "Internal links.md",
-    "DHBUDBJ.md",
+    "BackTracking.md",
+    "Recursion.md",
+    "Bit Manipulation.md",
+    "Binary Trees.md",
+    "Tries.md",
+    "Pasted image 20231015182013.png",
+    "Pasted image 20231015182022.png",
+    "Pasted image 20231015181951.png",
+    "Queue.md",
+    "Fast and Slow Pointer.md",
+    "Strings.md",
+    "String Matching Algorithms.md",
+    "Greedy.md",
+    "HashMap And Heaps.md",
+    "LinkedList.md",
+    "Heaps(Priority Queue).md",
+    "Two Pointer(Sliding Window).md",
+    "Untitled.md",
+    "Untitled",
+    "^5abe1b.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

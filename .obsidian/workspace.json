@@ -1,242 +1,14 @@
 {
   "main": {
-    "id": "735a03564fd7c224",
+    "id": "b7b094ab9fc1cfd5",
     "type": "split",
     "children": [
       {
-        "id": "53a5cf369ffdac57",
+        "id": "2de0c13dc291db8b",
         "type": "tabs",
         "children": [
           {
-            "id": "da916b192ebcb11d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Trees.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1a094d3ccbaaeb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b46c80010463294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search on 1-D and 2-D Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc38ea829a653aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search on 1-D and 2-D Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc6d4f8dddd545f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search on 1-D and 2-D Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "defb94c3f724b99c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bit Manipulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87436f1423026813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5163f588c1e4b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "475bac6fe462c774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heaps(Priority Queue).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab13b1d90948372a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1b5a32e83848259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c050867bdeec3e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String Matching Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "596e953c589a83cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackTracking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69fb7bd386f1a52f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recursion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "591b4654cb9de89a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4469cb7350c94fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greedy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d281c9aa68a35179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinkedList.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8f5bd5814d6b8ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d60d271db51a722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8a02cfb258b7aab",
+            "id": "f4dfd19edbf86f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -248,57 +20,31 @@
             }
           },
           {
-            "id": "371c96130ea1d4e4",
+            "id": "881d186e011a910e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Bit Manipulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebc3bfa8fdaacccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackTracking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fe49788a18fd955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.11"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "aace363df5f8fa9b",
+    "id": "9ce226c6a69792bb",
     "type": "split",
     "children": [
       {
-        "id": "e20bf55e36729dc7",
+        "id": "f270558aee566301",
         "type": "tabs",
         "children": [
           {
-            "id": "221f060865f492fd",
+            "id": "eb3016eaf99ff102",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -308,7 +54,7 @@
             }
           },
           {
-            "id": "2e9ba860198e18e1",
+            "id": "1c4aad048e3bca80",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -323,7 +69,7 @@
             }
           },
           {
-            "id": "efd1298656def9d9",
+            "id": "3cc6c95dc08f39a9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -337,24 +83,24 @@
     "width": 300
   },
   "right": {
-    "id": "7a89c3c7867329ae",
+    "id": "55d495708b1caed0",
     "type": "split",
     "children": [
       {
-        "id": "934fafdf9fb92550",
+        "id": "bfff0865d5875a89",
         "type": "tabs",
         "children": [
           {
-            "id": "25e2aad9f6a15047",
+            "id": "72856e2c4acbf504",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Search on 1-D and 2-D Array.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Topics.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -362,19 +108,19 @@
             }
           },
           {
-            "id": "44235085f1952ec7",
+            "id": "3291b45e339d8e3c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Search on 1-D and 2-D Array.md",
+                "file": "Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2e548f6d3f1ce172",
+            "id": "8d2a3e82838b3ac2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -385,21 +131,21 @@
             }
           },
           {
-            "id": "f40332254b002f1f",
+            "id": "1f6fa44a8cc756f8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binary Search on 1-D and 2-D Array.md"
+                "file": "Topics.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -411,39 +157,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b46c80010463294",
+  "active": "881d186e011a910e",
   "lastOpenFiles": [
-    "Binary Search Trees.md",
-    "Binary Search on 1-D and 2-D Array.md",
+    "String Matching Algorithms.md",
+    "Two Pointer(Sliding Window).md",
     "Topics.md",
-    "Sorting Techniques.md",
-    "Stacks.md",
-    "2D ARRAYS MATRIX.md",
-    "2-D Arrays.md",
-    "Dynamic Programming.md",
-    "Arrays.md",
-    "Graphs.md",
-    "BackTracking.md",
+    "Tries.md",
+    "Strings.md",
+    "Queue.md",
     "Recursion.md",
+    "Greedy.md",
+    "Graphs.md",
+    "Fast and Slow Pointer.md",
+    "Dynamic Programming.md",
     "Bit Manipulation.md",
     "Binary Trees.md",
-    "Tries.md",
-    "Pasted image 20231015182013.png",
-    "Pasted image 20231015182022.png",
-    "Pasted image 20231015181951.png",
-    "Queue.md",
-    "Fast and Slow Pointer.md",
-    "Strings.md",
-    "String Matching Algorithms.md",
-    "Greedy.md",
-    "HashMap And Heaps.md",
-    "LinkedList.md",
-    "Heaps(Priority Queue).md",
-    "Two Pointer(Sliding Window).md",
-    "Untitled.md",
-    "Untitled",
-    "^5abe1b.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Binary Search Trees.md",
+    "Binary Search on 1-D and 2-D Array.md",
+    "BackTracking.md",
+    "Arrays.md",
+    "Stacks.md",
+    "LinkedList.md"
   ]
 }

@@ -13,7 +13,7 @@ https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
 [[String Matching Algorithms]]
 [[Arrays]]
 [[2D ARRAYS MATRIX]]
-[[Strings]]
+[[Strings]]-Done
 [[Tries]]
 [[Heaps(Priority Queue)]]-Done
 [[Dynamic Programming]]
@@ -21,9 +21,11 @@ https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
 [[Bit Manipulation]]-Done
 [[Two Pointer(Sliding Window)]]
 [[Fast and Slow Pointer]]
-[[Binary Search on 1-D and 2-D Array]]
+[[Binary Search on 1-D and 2-D Array]] -Done
 [[HashMap And Heaps]] -Done
 
 MOD Operation - Add MOD Value Concept
-
+KMP
+HashMap Implementation
+HashSet Implementation
 

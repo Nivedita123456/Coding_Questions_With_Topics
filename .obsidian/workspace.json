@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "881d186e011a910e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,26 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "881d186e011a910e",
+  "active": "f4dfd19edbf86f5f",
   "lastOpenFiles": [
+    "Sorting Techniques.md",
+    "LinkedList.md",
+    "Heaps(Priority Queue).md",
+    "HashMap And Heaps.md",
+    "Pasted image 20240402002407.png",
+    "Pasted image 20240402002321.png",
+    "Arrays.md",
+    "Greedy.md",
+    "Graphs.md",
+    "2D ARRAYS MATRIX.md",
+    "Binary Search on 1-D and 2-D Array.md",
+    "Topics.md",
     "String Matching Algorithms.md",
     "Two Pointer(Sliding Window).md",
-    "Topics.md",
     "Tries.md",
     "Strings.md",
     "Queue.md",
     "Recursion.md",
-    "Greedy.md",
-    "Graphs.md",
     "Fast and Slow Pointer.md",
     "Dynamic Programming.md",
     "Bit Manipulation.md",
     "Binary Trees.md",
     "Binary Search Trees.md",
-    "Binary Search on 1-D and 2-D Array.md",
     "BackTracking.md",
-    "Arrays.md",
-    "Stacks.md",
-    "LinkedList.md"
+    "Stacks.md"
   ]
 }

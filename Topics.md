@@ -6,20 +6,20 @@ https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
 [[Binary Search Trees]]-Done
 [[Stacks]]-Done
 [[Queue]]-Done
-[[Sorting Techniques]]
+[[Sorting Techniques]]-Done
 [[Greedy]]-Done
 [[Recursion]]
 [[BackTracking]]-Done
 [[String Matching Algorithms]]
-[[Arrays]]
-[[2D ARRAYS MATRIX]]
+[[Arrays]]-Done
+[[2D ARRAYS MATRIX]]-Done
 [[Strings]]-Done
 [[Tries]]
 [[Heaps(Priority Queue)]]-Done
 [[Dynamic Programming]]
 [[Graphs]]-Done
 [[Bit Manipulation]]-Done
-[[Two Pointer(Sliding Window)]]
+[[Two Pointer(Sliding Window)]]-Done
 [[Fast and Slow Pointer]]
 [[Binary Search on 1-D and 2-D Array]] -Done
 [[HashMap And Heaps]] -Done

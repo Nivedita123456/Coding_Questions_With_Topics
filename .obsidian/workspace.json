@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4c17848c57dd2af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinkedList.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics.md",
+                "file": "LinkedList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics.md",
+                "file": "LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics.md"
+                "file": "LinkedList.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4dfd19edbf86f5f",
+  "active": "b4c17848c57dd2af",
   "lastOpenFiles": [
+    "Fast and Slow Pointer.md",
     "Sorting Techniques.md",
     "LinkedList.md",
     "Heaps(Priority Queue).md",
@@ -166,7 +180,6 @@
     "Strings.md",
     "Queue.md",
     "Recursion.md",
-    "Fast and Slow Pointer.md",
     "Dynamic Programming.md",
     "Bit Manipulation.md",
     "Binary Trees.md",
